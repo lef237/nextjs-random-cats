@@ -2,6 +2,9 @@
 
 This is a really simple project that shows the usage of Next.js with TypeScript.
 
+Vercelにデプロイしました！（2023-05-03）
+→ https://nextjs-random-cats-98qzg2pl4-lef237.vercel.app/
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-typescript)
